@@ -29,7 +29,7 @@ const Home = () => {
                     </div>
                     <div className="Intro">
                         <p className="Location"><a href="https://www.google.co.in/maps/place/San+Francisco,+CA,+USA/@37.7576948,-122.4726194,13z/data=!3m1!4b1!4m6!3m5!1s0x80859a6d00690021:0x4a501367f076adff!8m2!3d37.7749295!4d-122.4194155!16zL20vMGQ2bHA">View on Google Maps</a></p>
-                        <h2 className="Heading"><u>San Francisco</u></h2>
+                        <h2 className="Heading"><u>San Francisco, USA</u></h2>
                         <br></br>
                         <p className="Date"> 28th December,2022</p>
                         <br></br>
